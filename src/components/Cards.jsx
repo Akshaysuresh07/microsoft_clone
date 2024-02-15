@@ -3,7 +3,7 @@ import React, { useState } from 'react'
 import { FaChevronRight } from 'react-icons/fa'
 import logo2 from '../assets/Surface-Laptop-Studio-01-CP.webp'
  import logo1 from '../assets/Card-Surface-Laptop-5.jpg'
- import logo3 from '../assets/Xbox-Series-X.webp'
+ import logo3 from '../assets/gldn-XSX-CP-Xbox-Series-X.webp'
  import logo4 from '../assets/Content-Card-Microsoft-365-.jpg'
 
 const CardsSection = () => {

@@ -4,7 +4,8 @@ import logo from './assets/logo.png'
 import './App.css'
 import Content1 from './components/Content1'
 import CardsSection from './components/Cards'
-import Onedrive from "./components/Xbox"
+import Onedrive from "./components/Onedrive"
+import ForBussiness from "./components/Bussines"
 
 
 function App() {
@@ -66,6 +67,7 @@ function App() {
   <Content1 />
   <CardsSection />
   <Onedrive/>
+  <ForBussiness/>
   
 
   <section className="links mt-5">
